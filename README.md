@@ -15,7 +15,3 @@ This is a quantized version of **LLaMA 3.1**, saved in the `q4_k_m` format using
 * Good balance of speed and accuracy
 * Compatible with popular local inference tools
 * Suitable for chatbots, prompt testing, local assistants, and embedded apps
-
----
-
-Let me know if you'd like a more technical or more user-friendly version depending on your target audience.
